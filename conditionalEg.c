@@ -1,5 +1,5 @@
 /*
-Sample Program for Conditional Statement.c
+Sample Program For Conditional Statement.c
 */
 #include<stdio.h>
 int main()
